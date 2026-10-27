@@ -1,0 +1,6 @@
+{
+  "name": "PulsePoint Emergency Blood & SOS Alert System",
+  "description": "Comprehensive Emergency Blood Donor & SOS Alert System featuring real-time donor proximity search, rapid SOS broadcasting, blood request management, and administrative triage.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
